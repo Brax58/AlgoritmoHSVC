@@ -1,4 +1,16 @@
-﻿using System;
+/*
+ --Você deve elaborar um algoritmo que--
+
+a. Armazene em um vetor a quantidade de dinheiro que as 10 pessoas presaspossuíam
+Este vetor deve ser preenchido pelo usuário.
+
+b. Leia a quantidade de dinheiro que o bandido confesso (item b) revelou
+Este valor deve ser preenchido pelo usuário
+
+c. Calcule e informe ao delegado quanto dinheiro foi roubado.
+*/
+
+using System;
 
 namespace HSVC
 {
